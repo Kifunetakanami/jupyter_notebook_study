@@ -1,0 +1,2 @@
+# jupyter_notebook_study
+Python 3 エンジニア認定データ分析試験で勉強した内容のファイルです
